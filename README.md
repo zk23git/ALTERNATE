@@ -6,7 +6,7 @@ sudo apt install npm
 
 npm install -g yarn 
 
-apt install cargo
+apt install cargoL.HU
 
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
 
